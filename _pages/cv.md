@@ -11,24 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Michigan State University, 2025
+* B.S. in Data Science, Michigan State University, 2023–2027 (GPA: 3.7)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Research Assistant  
+  Michigan State University  
+  * Working on data pipelines and visualization  
+  * Supervisor: Professor X
   
 Skills
 ======
