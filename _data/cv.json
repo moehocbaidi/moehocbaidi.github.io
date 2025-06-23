@@ -14,19 +14,9 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "moehocbaidi",
+        "url": "https://github.com/moehocbaidi"
       }
     ]
   },
@@ -35,8 +25,8 @@
     {
       "institution": "Michigan State University",
       "area": "B.S in Data Science",
-      "studyType": "",
-      "startDate": "",
+      "studyType": "Bacherlor",
+      "startDate": "2023",
       "endDate": "2027",
       "gpa": 3.7,
       "courses": []
